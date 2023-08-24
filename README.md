@@ -1,7 +1,8 @@
 # ProgressBelajarku
 Repository ini berisi pengalaman tentang mengikuti "Dicoding Membangun Negeri"
 
-24 Agustus 2023
+**24 Agustus 2023**
+
 Belajar kelas Dasar Git dengan Github (38%)
   * Belajar apa itu git dan penggunaannya.
   * Belajar cara membuat repository.
